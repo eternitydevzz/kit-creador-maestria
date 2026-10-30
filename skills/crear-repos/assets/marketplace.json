@@ -1,0 +1,14 @@
+{
+  "name": "<nombre-marketplace-unico>",
+  "description": "<Para quién y qué contiene>",
+  "owner": {
+    "name": "<marca o equipo>"
+  },
+  "plugins": [
+    {
+      "name": "<nombre-plugin>",
+      "source": "./",
+      "description": "<Qué trae, en una frase>"
+    }
+  ]
+}

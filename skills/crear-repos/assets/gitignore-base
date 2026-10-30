@@ -1,0 +1,36 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secretos (subir solo .env.example con valores vacíos)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+credentials*.json
+secrets*.json
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Dependencias y builds
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+
+# Claude Code: ajustes personales (el settings.json del proyecto sí se puede subir)
+.claude/settings.local.json
+
+# Logs y temporales
+*.log
+tmp/
+.cache/

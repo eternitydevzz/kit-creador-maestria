@@ -1,0 +1,15 @@
+{
+  "name": "kit-creador-maestria",
+  "description": "Kit Creador Maestría: crear skills de Claude y proyectos completos en GitHub",
+  "owner": {
+    "name": "Código Maestría"
+  },
+  "plugins": [
+    {
+      "name": "kit-creador-maestria",
+      "displayName": "Kit Creador Maestría",
+      "source": "./",
+      "description": "crear-skills y crear-repos: de la idea a una skill probada o a un proyecto publicado"
+    }
+  ]
+}

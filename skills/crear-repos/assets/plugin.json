@@ -1,0 +1,8 @@
+{
+  "name": "<nombre-plugin>",
+  "description": "<Qué trae, en una frase>",
+  "version": "1.0.0",
+  "author": {
+    "name": "<marca o equipo>"
+  }
+}
