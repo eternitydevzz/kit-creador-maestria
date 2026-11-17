@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/licencia-MIT-blue" alt="Licencia MIT">
-  <img src="https://img.shields.io/badge/versión-1.1.0-green" alt="Versión 1.1.0">
+  <img src="https://img.shields.io/badge/versión-1.2.0-green" alt="Versión 1.2.0">
   <img src="https://img.shields.io/badge/Claude%20Code-plugin-orange" alt="Plugin de Claude Code">
 </p>
 
@@ -21,6 +21,7 @@
 |---|---|---|
 | `crear-skills` | Crea, mejora y prueba una skill de principio a fin | "Crea una skill para ..." · "Mi skill no se activa" |
 | `crear-repos` | Crea un proyecto completo (app, plugin o motor) y lo publica en GitHub | "Quiero una herramienta que ..." · "Sube mi proyecto a GitHub" |
+| `mejorar-plan-apps` | Revisa el plan de una app con datos reales, le pone nota con una rúbrica de 11 criterios y, con tu OK, lo reescribe | "Revisa el plan" · "Mejora el plan" · "Ponle nota al plan" |
 
 ## Cómo funciona
 
