@@ -2,6 +2,11 @@
 
 Lo nuevo arriba. Versiones: MAJOR rompe algo, MINOR añade sin romper, PATCH arregla.
 
+## 1.2.0 - 2026-11-17
+
+### Añadido
+- Skill `mejorar-plan-apps`: revisa y mejora el plan de una app que ya existe (lo cruza con git y los archivos, lo puntúa con una rúbrica de 11 criterios y lo reescribe solo con el OK del usuario, guardando antes una copia).
+
 ## 1.1.0 - 2026-10-30
 
 ### Cambiado

@@ -1,6 +1,6 @@
 # Kit Creador Maestría · manual para Claude
 
-Plugin de Claude Code con dos skills: **crear-skills** (crear, mejorar y probar skills) y **crear-repos** (crear proyectos completos en GitHub: app local, plugin de skills o motor de scripts, con la estructura Maestría e instaladores para Mac y Windows).
+Plugin de Claude Code con tres skills: **crear-skills** (crear, mejorar y probar skills), **mejorar-plan-apps** (revisar y mejorar el plan de una app) y **crear-repos** (crear proyectos completos en GitHub: app local, plugin de skills o motor de scripts, con la estructura Maestría e instaladores para Mac y Windows).
 
 **Habla siempre en español**, claro y sencillo.
 

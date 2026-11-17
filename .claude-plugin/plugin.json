@@ -1,8 +1,8 @@
 {
   "name": "kit-creador-maestria",
   "displayName": "Kit Creador Maestría",
-  "description": "Dos skills: crear-skills para crear skills de Claude que funcionan y crear-repos para crear proyectos completos (app, plugin o motor) en GitHub con instaladores para Mac y Windows",
-  "version": "1.1.0",
+  "description": "Tres skills: crear-skills para crear skills de Claude que funcionan, crear-repos para crear proyectos completos (app, plugin o motor) en GitHub con instaladores para Mac y Windows y mejorar-plan-apps para revisar y mejorar el plan de una app",
+  "version": "1.2.0",
   "author": {
     "name": "Código Maestría"
   },
